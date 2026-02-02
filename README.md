@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![Coding](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+
+Computer Science student and software developer. I love programming and enjoy simplifying and explaining it in an easy, clear way.
+- 🌱 I’m currently learning Ai
+## 🛠 Skills
+Java |MySQL |HTML,| CSS,| JavaScript| PHP| Flutter |UML Diagrams |Software Requirements Specification (SRS) |Figma |Power BI |User Flow
+
 <!--
 **mashaelshakir/mashaelshakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
