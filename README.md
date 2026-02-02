@@ -8,7 +8,7 @@ Computer Science student and software developer. I love programming and enjoy si
 Java |MySQL |HTML,| CSS,| JavaScript| PHP| Flutter |UML Diagrams |Software Requirements Specification (SRS) |Figma |Power BI |User Flow
 
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/GitHub Profile README Generator/)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/GitHub/)  
 
 
 
